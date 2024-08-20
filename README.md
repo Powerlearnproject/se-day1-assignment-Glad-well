@@ -27,7 +27,8 @@ intergrated deveopment environments is important in code writting and editing wh
 version control systems is important in branching which enables developers to work on diffrent features or fixes  in separate branches and then merge them into the main progect,for example,git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Bugs.Identifing and fixing bugs esspecially in code basses can be time consuming and frustrating,this can be overcomed by strategies such as using debugging tools such as IDE debuggers to step through code,set breakpoints and inspect variablesr
+managing technical code.Accumilation of shortcuts taken on previous phases that need to  be addressed later which can be overcomed by strategies such as setting standards to estsblish guidelines and revive proceces to prevent excessive technical dept
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
