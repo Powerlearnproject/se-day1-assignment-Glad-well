@@ -22,7 +22,7 @@ both methodologies have diffrent approches to product management and software de
 In waterfall methodology each phase of the progect must be completed before moving to the next.it can be explained in the senario where developing a new banking where the requirements are strictly defined by regulations and unlikely to change, this ensures all regulatory aspects are thorougly adressed before before the progect moves forward while in Agile methodology each phase produces a usable product increment which can be explained in the senario where developing a new social media platform where user preferences and features may envolve rapidly Agile allows for frequent updates and refinements based on user feedback apdating quickly to changes in the market trends
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software developers focus on building ,codding,designing and debugging the software while quality assurance engineers ensure the software is tested and is free of bugs and defects,and a progect manager oversees the progect and makes sure it stays on schedule,within budget and meets stakeholder expectations
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 intergrated deveopment environments is important in code writting and editing which provides a user friendly interface  for code ane and featureslike syntax highligting coding completion and error detection,for example,Virtual studio code
