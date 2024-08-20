@@ -33,7 +33,10 @@ Bugs.Identifing and fixing bugs esspecially in code basses can be time consuming
 managing technical code.Accumilation of shortcuts taken on previous phases that need to  be addressed later which can be overcomed by strategies such as setting standards to estsblish guidelines and revive proceces to prevent excessive technical dept
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing is testing individual concepts and functions of software insolation and is important in identifying important issues in specificparts of code making it easier to fix them before they affect the entire system
+Intergration testing is the testing of how diffrent systems work together,it is important in ensuring combined parts of the application work correctly and data flows betwen them as expected
+System testing. is the testing of the complete intergrated software system,its important in validating the entire system meets specific requrements and functions intended for the real world environment
+Acceptance testing is to make sure software meets requrements and is ready for deployment it is necessary to confirm the software meets the customers needs
 
 #Part 2: Introduction to AI and Prompt Engineering
 
