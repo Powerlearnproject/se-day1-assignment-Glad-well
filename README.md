@@ -42,8 +42,8 @@ Acceptance testing is to make sure software meets requrements and is ready for d
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering s the crafting of questions in a clear and specific way to get the best responces.It helps AI models to act in a precice way helping it to wok more efficiently and have good quality responces
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
+What is the importance of software engineering ?Is a vague questioninstead of that you may ask what is the importance of software engineering to the saving of time of university students in africa?
 
