@@ -5,16 +5,19 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engeneering is the use of engeneering skills to design develop and maintain high quality software.It plays a crutial role by enabling creation of software applications and systems that help in various aspects of life.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+In the 1980s their was emergence of object oriented programing.Object oriented programing with languages such as smalltalk which introduced the concept of organising software around objects and classes which made things easier
+Agile methodologies. In the 2000srise in agile methodologies such as extreme programing which emphasised iterative developnent collaboration and flexibility to adapt to changing requirements
+DevOps.In 2010 practices that itergrate developmentand operation teams aming to faster and reliable delivary of software through automation and continous intergration
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+both methodologies have diffrent approches to product management and software development
+In waterfall methodology each phase of the progect must be completed before moving to the next.it can be explained in the senario where developing a new banking where the requirements are strictly defined by regulations and unlikely to change, this ensures all regulatory aspects are thorougly adressed before before the progect moves forward while in Agile methodology each phase produces a usable product increment which can be explained in the senario where developing a new social media platform where user preferences and features may envolve rapidly Agile allowa for frequent
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
